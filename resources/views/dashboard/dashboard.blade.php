@@ -54,19 +54,9 @@
                             <span class="text-center">Profil</span>
                         </div>
                     </div>
-                    <div class="item-menu text-center">
+                    <div class="item-menu text-center"> 
                         <div class="menu-icon">
-                            <a href="/presensi/izin" style="font-size: 40px; color: #fe9500;">
-                                <ion-icon name="calendar-number"></ion-icon>
-                            </a>
-                        </div>
-                        <div class="menu-name">
-                            <span class="text-center">Cuti</span>
-                        </div>
-                    </div>
-                    <div class="item-menu text-center">
-                        <div class="menu-icon">
-                            <a href="/presensi/histori" style="font-size: 40px; color: #FDD835;">
+                            <a href="/presensi/histori" style="font-size: 40px; color: #1e74fd;">
                                 <ion-icon name="document-text"></ion-icon>
                             </a>
                         </div>
@@ -76,12 +66,12 @@
                     </div>
                     <div class="item-menu text-center">
                         <div class="menu-icon">
-                            <a href="" style="font-size: 40px; color: #dc3545;">
-                                <ion-icon name="location"></ion-icon>
+                            <a href="/presensi/izin" style="font-size: 40px; color: #dc3545;">
+                                <ion-icon name="calendar-number"></ion-icon>
                             </a>
                         </div>
                         <div class="menu-name">
-                            <span class="text-center">Lokasi</span>
+                            <span class="text-center">Cuti</span> 
                         </div>
                     </div>
                 </div>
